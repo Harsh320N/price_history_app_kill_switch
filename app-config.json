@@ -1,7 +1,5 @@
 {
   "pricehistory.app": {
-    "enabled": true,
-    "title": "App Disabled",
-    "message": "This app is no longer available."
+    "enabled": true
   }
 }
